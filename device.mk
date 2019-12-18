@@ -16,7 +16,7 @@
 
 # Lights
 PRODUCT_PACKAGES += \
-    android.hardware.light@2.0-service.xiaomi_sm6125
+    android.hardware.light@2.0-service.xiaomi_ginkgo
 
 # Inherit from sm6125-common
 $(call inherit-product, device/xiaomi/sm6125-common/sm6125-common.mk)
