@@ -19,3 +19,4 @@ Front Camera | 13MP
 ## Device picture
 ![Xiaomi Redmi Note 8](https://fdn2.gsmarena.com/vv/pics/xiaomi/xiaomi-redmi-note-8-2.jpg? "Xiaomi Redmi Note 8")
 # android_device_xiaomi_ginkgo
+# android_device_xiaomi_ginkgo
